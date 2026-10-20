@@ -1,0 +1,24 @@
+body
+{
+    margin: 20px;
+}
+
+.imgelt
+{
+    width: 150px;
+}
+
+.card
+{
+    
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: #726e60;
+    color: #ecfff8;
+    border-bottom: #fe621d;
+}
